@@ -1,0 +1,22 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+stamps_media
+static
+.DS_Store
+
+#Installer logs
+fabric.json
+
+# vscode
+.vscode
+.mypy_cache
+
+# Yarn
+node_modules
+yarn.lock
